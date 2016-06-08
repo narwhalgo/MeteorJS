@@ -1,0 +1,22 @@
+.styling-is-good {
+  padding: 2%;
+}
+.custom-btn {
+  /* Background: */
+background: #E9E9E9;
+box-shadow: 0px 12px 22px 0px rgba(0,0,0,0.24);
+border-radius: 100px;
+/* SIGN IN: */
+font-family: Lato-Bold;
+font-size: 18px;
+color: #000000;
+letter-spacing: 1.09px;
+/* Arrow Icon: */
+}
+
+.form-control {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  max-width: 200px;
+}
